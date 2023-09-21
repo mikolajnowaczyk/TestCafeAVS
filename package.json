@@ -1,0 +1,23 @@
+{
+  "name": "testcafeavs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikolajnowaczyk/TestCafeAVS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikolajnowaczyk/TestCafeAVS/issues"
+  },
+  "homepage": "https://github.com/mikolajnowaczyk/TestCafeAVS#readme",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "testcafe": "^3.3.0"
+  }
+}
