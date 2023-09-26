@@ -8,6 +8,10 @@ test("Example test of the homepage", async () => {
   await HomePage.waitForBannerToLoad();
 });
 
+test("Example error test", async (testController) => {
+  await testController.expect(true).eql(false);
+});
+
 test("Verify homepage", async (testController) => {
   await HomePage.waitForBannerToLoad();
   for (const card of resourcesCardsUrls) {
