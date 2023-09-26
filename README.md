@@ -9,6 +9,7 @@ My solution is written in the Testcafe test framework. To run tests you have to 
 3. After the run you can check test results in the generated report (e2e/artifacts/reports/report.html). Example test report is shown below:
 
 ![obraz](https://github.com/mikolajnowaczyk/TestCafeAVS/assets/22079260/c4fdbe3e-2b07-4475-a5d7-687ebabad9b4)
-![obraz](https://github.com/mikolajnowaczyk/TestCafeAVS/assets/22079260/9fe2e4e8-d86c-4340-abc2-17539d20c171)
+![obraz](https://github.com/mikolajnowaczyk/TestCafeAVS/assets/22079260/4fd1dda9-25a2-40de-bef8-7bec7fe63d2b)
+
 
 
